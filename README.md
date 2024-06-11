@@ -1,8 +1,8 @@
 # Predicting_Student_Placement_Outcomes
-**Project Description**
+# Project Description
 The objective of this project is to analyze and predict the employability of students based on various academic, demographic, and experiential factors. The dataset comprises details about students' secondary and higher secondary education, undergraduate degrees, work experience, and MBA performance. By examining these attributes, the project aims to determine which factors significantly influence the likelihood of securing a job and to predict potential salary ranges for students based on their profiles.
 
-**Dataset Description**
+# Dataset Description
 The dataset consists of the following columns:
     
 **sl_no:** Serial number, a unique identifier for each student.
@@ -67,7 +67,8 @@ To run the project in your Jupyter Notebook or Google Colab, follow these steps:
 - **Descriptive Statistics**: Used to summarize and analyze the dataset, including measures such as mean, median, standard deviation, and correlation coefficients.
 - **Matplotlib**:Used for data visualization
 
- **Results**
+ # Results
+ 
 **Overall Accuracy**: 72%
 
 **Class 0 (Not Placed):**
